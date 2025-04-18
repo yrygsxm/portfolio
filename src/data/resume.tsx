@@ -72,16 +72,16 @@ export const DATA = {
 
   work: [
     {
-      company: "Atomic Finance",
-      href: "https://atomic.finance",
+      company: "腾讯视频",
+      href: "https://v.qq.com/",
       badges: [],
       location: "Remote",
       title: "Bitcoin Protocol Engineer",
-      logoUrl: "/atomic.png",
-      start: "May 2021",
-      end: "Oct 2022",
+      logoUrl: "/tencent.png",
+      start: "May 2020",
+      end: "Oct 2021",
       description:
-        "Implemented the Bitcoin discreet log contract (DLC) protocol specifications as an open source Typescript SDK. Dockerized all microservices and setup production kubernetes cluster. Architected a data lake using AWS S3 and Athena for historical backtesting of bitcoin trading strategies. Built a mobile app using react native and typescript.",
+        "电视剧商务、网络电影制片、腾讯综艺编导.",
     },
     {
       company: "Shopify",
